@@ -6,8 +6,6 @@ The purpose of this project was to familiarize ourselves with the basic types of
 2. Deep Recurrent Neural Networks (RNNs) or Transformers
 3. Deep Reinforcement Learning (DRL)
 
-
-
-# For Deep Convolution Neural Networks (CNNs), a dataset for facial emotion recognition was selected from Kaggle. This dataset consists of 35,887 images, each 48x48 pixels in grayscale. Each image represents a different
-emtoion. The emotions in the images are : angry, disgust, fear, happy, neutral, sad, and surprise. We dealt with a multi-class image classification problem involving seven classes.
+For Deep Convolution Neural Networks (CNNs), a dataset for facial emotion recognition was selected from Kaggle. This dataset consists of 35,887 images, each 48x48 pixels in grayscale. Each image represents a different
+emtotion. The emotions in the images are : angry, disgust, fear, happy, neutral, sad, and surprise. We dealt with a multi-class image classification problem involving seven classes.
 
