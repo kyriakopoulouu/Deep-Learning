@@ -11,6 +11,7 @@ emtotion. The emotions in the images are : angry, disgust, fear, happy, neutral,
 
 2. For Deep Recurrent Neural Networks (RNNs), a dataset for Fake News Detection Analysis was  was selected through Kaggle. This dataset contains a collection of 20800 English articles. Its structure is (20800.5),
 i.e. 20800 rows and 5 column-attributes. Specifically, the characteristics of the columns include:
+
  id: unique identifier for a news article
  title: title of news article
  author: author of the news article
