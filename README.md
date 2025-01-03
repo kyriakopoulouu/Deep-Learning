@@ -25,3 +25,4 @@ i.e. 20800 rows and 5 column-attributes. Specifically, the characteristics of th
    1: unreliable
  
    0: reliable
+3. For Deep Reinforcement Learning (DRL), the Atari Mario Bros game was selected from the Gymnasium library. Using the Stable-Baselines3 library and the Proximal Policy Optimization (PPO) algorithm, the agent was trained, specifically employing the CNNPolicy. Initially, the model was trained with its default parameters. Subsequently, a custom convolutional network was added, followed by experimentation with modifications and enhancements to this network to improve its performance.
